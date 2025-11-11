@@ -95,4 +95,4 @@ if data:
     a2.metric("T avg", f"{avgT:.2f}")
     a3.metric("A avg", f"{avgA:.2f}")
     a4.metric("R avg", f"{avgR:.2f}")
-    x=0
+    
